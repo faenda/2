@@ -1,3 +1,3 @@
-# face-recognize-docker
+# face-recognition-docker
 
-Docker image for python face-recognize.
+Docker image for python face-recognition.
